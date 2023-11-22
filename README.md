@@ -17,9 +17,6 @@ I'm **Jackey**, an energetic **front-end developer** From China!
 ### 🛠 Tech Stack
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zS1m&layout=compact&card_width=417&count_private=true" />
-  </a> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
