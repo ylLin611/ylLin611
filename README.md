@@ -11,7 +11,7 @@ I'm **Jackey**, an energetic **front-end developer** From China!
 ### 💼 Things I'm currently working on:
 
 - Build my blog website
-- Create Mini Programs using `taro` for my girlfriend
+- Create a full-stack platform template(vue + nest)
 - Improve front-end development skills
 
 ### 🛠 Tech Stack
