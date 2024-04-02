@@ -11,7 +11,8 @@ I'm **Jackey**, an energetic **front-end developer** From China!
 ### 💼 Things I'm currently working on:
 
 - Build my blog website
-- Create a full-stack platform template(vue + nest)
+- Study Next.js
+- Create a full-stack platform template(Use Next)
 - Improve front-end development skills
 
 ### 🛠 Tech Stack
