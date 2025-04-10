@@ -29,9 +29,7 @@ I'm **Lin**, an energetic **front-end developer** From China!
   
 </p>
 
-## About me
-
-- 💬 Ask me about anything
+- 💬 You Can Ask me about anything
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
