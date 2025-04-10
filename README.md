@@ -10,9 +10,8 @@ I'm **Lin**, an energetic **front-end developer** From China!
 
 ### 💼 Things I'm currently working on:
 
-- Build my blog website
-- Study Next.js
-- Create a full-stack platform template(Use Next)
+- Build My Blog
+- Study Next.js|THREE.js
 - Improve front-end development skills
 
 ### 🛠 Tech Stack
